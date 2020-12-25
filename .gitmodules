@@ -1082,3 +1082,6 @@
 [submodule "simple-resume"]
 	path = simple-resume
 	url = https://github.com/tylerjlawson/simple-resume.git
+[submodule "Davsk-Hugo-Forestry-Theme"]
+	path = Davsk-Hugo-Forestry-Theme
+	url = git@github.com:davsk/Davsk-Hugo-Forestry-Theme.git
